@@ -1,0 +1,38 @@
+.container{
+    max-width: 600px;
+  }
+  .btn{
+    background: gray;
+    border-radius: 5px !important;
+    border-color:  white !important;
+    color: white;
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  .btn:focus{
+    outline: none !important;
+  }
+  .username{
+    font-weight: bold;
+  }
+  .time{
+    font-size: 0.7em;
+    color: #999;
+  }
+  .sss{
+    font-weight: bold;
+  }
+  .chat-list{
+    opacity: 0.9;
+  }
+.header,.currname{
+    color: aliceblue;
+}
+
+.proj{
+    position: relative;
+}
+body{
+    background-image: url("night.svg");
+    background-size: 100%;
+}
